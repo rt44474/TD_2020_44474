@@ -1,0 +1,4 @@
+Numer albumu: rt44474
+A = 4
+B = 7
+C = 4
