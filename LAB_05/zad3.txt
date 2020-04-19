@@ -1,0 +1,29 @@
+zad1a_wykres4:
+fmin = 13.4595
+fmax = 13.4622
+W = 0.0027
+
+zad1a_wykres5:
+fmin = 5.5851
+fmax = 13.5216
+W = 7.9365
+
+zad1b_wykres3:
+fmin = 0.0027
+fmax = 0.0054
+W = 0.0027
+
+zad1b_wykres4:
+fmin = 0.2889
+fmax = 0.0027
+W = 0.2862‬
+
+zad1c_wykres3:
+fmin = 0.0027
+fmax = 0.0054
+W = 0.0027
+
+zad1c_wykres4:
+fmin = 0.3654
+fmax = 0.0054
+W = 0.3600
