@@ -1,5 +1,0 @@
-Numer albumu: rt44474
-A = 4
-B = 7
-C = 4
-https://github.com/rt44474/TD_2020_44474
