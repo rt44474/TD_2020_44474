@@ -1,12 +1,12 @@
 zad1a_wykres4:
 fmin = 2.16
 fmax = 2.16
-W = 0
+W = 1Hz
 
 zad1a_wykres5:
 fmin = 2.16
 fmax = 2.16
-W = 0
+W = 1Hz
 
 zad1b_wykres3:
 fmin = 2.152
