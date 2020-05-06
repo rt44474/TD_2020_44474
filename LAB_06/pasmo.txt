@@ -1,14 +1,14 @@
 widmo amplitudowe zASK:
-fmax = 12
-fmin = 0.2857
-W = 11.7143
+fmax = 2.777
+fmin = 2.623
+W = 0.154
 
 widmo amplitudowe zFSK:
-fmax = 12.29
-fmin = 0.2857
-W = 12.0033 
+fmax = 3.24
+fmin = 2.97
+W = 0.27
 
 widmo amplitudowe zPSK:
-fmax = 12.29
-fmin = 0.2857
-W = 12.0033 
+fmax = 2.777
+fmin = 2.58
+W = 0.197
