@@ -1,0 +1,28 @@
+Dane wejsciowe: CAB
+Strumien binarny:
+0100 0011 0100 0001 0100 0010
+[1]Hamming/[2]HammingSECDED  2
+
+
+
+ZAD 4
+Strumien binarny:
+0100 0011 0100 0001 0100 0010
+SECDED:
+10011001 10000111 10011001 11010010 10011001 01010101
+Czy chcesz zanegowac bit?
+[1]Tak/[2]Nie  1
+
+
+Ktore numery bitu maja zostac uszkodzone:1 20
+Uszkodzony kod Hammiga na pozycjach 1,20:
+0001100110000111 1000100111010010 1001100101010101
+Ktora modulacje wybierasz?
+[1]zASK/[2]zPSK/[3]/zFSK  1
+Weryfikacja p4 uszkodzonego
+P4 jest niezgodne P4 jest niezgodne
+Indeks korekty kodu uszkodzonego:
+1 0 4 0 0 0
+Ponowna weryfikacja p4 uszkodzonego
+0100 0011 0100 0001 0100 0010
+Dane wyjsciowe: CAB

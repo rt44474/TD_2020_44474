@@ -1,0 +1,27 @@
+Dane wejsciowe: CAB
+Strumien binarny:
+0100 0011 0100 0001 0100 0010
+[1]Hamming/[2]HammingSECDED  1
+
+Hamming(7,4) przed modulo:
+1001100 1202011 1001100 1101001 1001100 0101010
+Hamming(7,4) po modulo:
+10011001000011 10011001101001 10011000101010
+Czy chcesz zanegowac bit?
+[1]Tak/[2]Nie  1
+
+
+Ktory numer bitu ma zostac uszkodzony:20
+Uszkodzony kod Hammiga na pozycji 20:
+10011001000011 10011101101001 10011000101010
+
+Ktora modulacje wybierasz?
+[1]zASK/[2]zPSK/[3]/zFSK  3
+
+Demodulacja uszkodzona po modulo:
+000 000 011 000
+Indeks korekty kodu uszkodzonego:
+0 0 6 0 0 0
+Zdekodowany:
+0100 0011 0100 0001 0100 0010
+Dane wyjsciowe: CAB
