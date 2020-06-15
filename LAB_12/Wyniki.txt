@@ -1,0 +1,45 @@
+DANE WEJŚCIOWE: AlaMaKota
+zASK z szumem, alfa = 0.75
+BER przed korekcją: 0.0833
+BER po korekcji: 0.0278 
+Dane wyjściowe: laMaKota
+
+zASK z szumem, alfa = 0.50
+BER przed korekcją: 0.180556
+BER po korekcji: 0.125
+Dane wyjściowe: OŘaMoOota
+
+zASK z szumem, alfa = 0.25
+BER przed korekcją: 0.208333
+BER po korekcji: 0.166667
+Dane wyjściowe: Ala»˝K ˘o
+
+zPSK z szumem, alfa = 0.7
+BER przed korekcją: 0
+BER po korekcji: 0
+Dane wyjściowe: AlaMaKota
+
+zPSK z szumem, alfa = 0.4
+BER przed korekcją: 0
+BER po korekcji: 0
+Dane wyjściowe: AlaMaKota
+
+zPSK z szumem, alfa = 0.2 
+BER przed korekcją: 0.02777
+BER po korekcji: 0
+Dane wyjściowe: AlaMaKota
+
+zFSK z szumem, alfa = 0.7 
+BER przed korekcją: 0
+BER po korekcji: 0
+Dane wyjściowe: AlaMaKota
+
+zFSK z szumem, alfa = 0.5
+BER przed korekcją: 0
+BER po korekcji: 0
+Dane wyjściowe: AlaMaKota
+
+zFSK z szumem, alfa = 0.2
+BER przed korekcją: 0.0555
+BER po korekcji: 0.0416
+Dane wyjściowe: AlcMaKGta
